@@ -1,6 +1,7 @@
 ### Hi there, I'm [Leo][website] 👋
 
 [![Website](http://img.shields.io/website?label=leoawesome.com&style=for-the-badge&url=https%3A%2F%2Fleoawesome.com)](https://leoawesome.com)
+[![company](http://img.shields.io/website?label=respond.io&style=for-the-badge&url=https%3A%2F%respond.io)](https://respond.io)
 
 ## I'm a Date Engineer, Web Developer, Mobile Apps Developer, and Software Engineer!
 
