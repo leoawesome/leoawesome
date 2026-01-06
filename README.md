@@ -19,27 +19,43 @@ I am a **Software Engineer** focused on building scalable applications and solvi
 Currently, I am the **Team Lead at [respond.io](https://respond.io)**.
 I have architected and owned many of the platform's core features. My recent highlight is building the **AI Agent**, a system designed to help businesses automate and manage customer conversations intelligently.
 
----
+<div align="center">
 
-### 🚀 Professional Focus
+<h3>🚀 Professional Focus</h3>
 
-* 🤖 **[respond.io](https://respond.io)** — *Team Lead & Core Architect*
-    > Architecting the core platform and building the **AI Agent** designed to automate customer conversations intelligently.
+<a href="https://respond.io">
+  <img src="https://img.shields.io/badge/respond.io-Team_Lead_%26_AI-3B82F6?style=for-the-badge&logo=respond&logoColor=white" height="30" />
+</a>
+<br>
+<b>Building the AI Agent to automate customer conversations.</b>
 
-### ⚡ Indie Hacking & Ventures
+<br><br>
 
-I build AI-powered tools to solve real-world problems in health, finance, and sustainability.
+<h3>⚡ Indie Hacking & Ventures</h3>
 
-* 🍓 **[berrybest.app](https://berrybest.app)** — *Keepfit AI*
-    > Smart calorie and exercise tracking with personalized **AI advice** to reach your fitness goals.
+<a href="https://berrybest.app">
+  <img src="https://img.shields.io/badge/berrybest.app-Keepfit_AI-purple?style=for-the-badge&logo=googlefit&logoColor=white" height="28" />
+</a>
+<br>
+Smart calorie tracking & exercise logging with personalized <b>AI advice</b>.
 
-* 💸 **[thecfo.app](https://thecfo.app)** — *Your Personal AI CFO*
-    > Track income and expenses, receiving actionable **AI insights** for better financial health.
+<br>
 
-* 🥗 **[myvaluefood.com](https://myvaluefood.com)** — *Surplus Food Platform*
-    > A marketplace connecting consumers with surplus food to reduce waste and unlock value.
+<a href="https://thecfo.app">
+  <img src="https://img.shields.io/badge/thecfo.app-AI_CFO-orange?style=for-the-badge&logo=bitcoin&logoColor=white" height="28" />
+</a>
+<br>
+Track income & expenses with actionable <b>AI insights</b> for financial health.
 
----
+<br>
+
+<a href="https://myvaluefood.com">
+  <img src="https://img.shields.io/badge/myvaluefood.com-Surplus_Food-10B981?style=for-the-badge&logo=leaf&logoColor=white" height="28" />
+</a>
+<br>
+A marketplace connecting consumers with surplus food to reduce waste.
+
+</div>
 
 <br />
 
