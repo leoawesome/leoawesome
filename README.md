@@ -19,12 +19,27 @@ I am a **Software Engineer** focused on building scalable applications and solvi
 Currently, I am the **Team Lead at [respond.io](https://respond.io)**.
 I have architected and owned many of the platform's core features. My recent highlight is building the **AI Agent**, a system designed to help businesses automate and manage customer conversations intelligently.
 
-### 🚀 Current Focus
+---
 
-| 🏢 **What I'm Building** | ⚡ **Side Hustles** |
-| :--- | :--- |
-| **[respond.io](https://respond.io)**<br>_Core Platform & AI Agent_ | **[berrybest.app](https://berrybest.app)**<br>_Building the best berry tracker_ |
-| **[myvaluefood.com](https://myvaluefood.com)**<br>_Value food discovery_ | **[thecfo.app](https://thecfo.app)**<br>_Financial optimization tool_ |
+### 🚀 Professional Focus
+
+* 🤖 **[respond.io](https://respond.io)** — *Team Lead & Core Architect*
+    > Architecting the core platform and building the **AI Agent** designed to automate customer conversations intelligently.
+
+### ⚡ Indie Hacking & Ventures
+
+I build AI-powered tools to solve real-world problems in health, finance, and sustainability.
+
+* 🍓 **[berrybest.app](https://berrybest.app)** — *Keepfit AI*
+    > Smart calorie and exercise tracking with personalized **AI advice** to reach your fitness goals.
+
+* 💸 **[thecfo.app](https://thecfo.app)** — *Your Personal AI CFO*
+    > Track income and expenses, receiving actionable **AI insights** for better financial health.
+
+* 🥗 **[myvaluefood.com](https://myvaluefood.com)** — *Surplus Food Platform*
+    > A marketplace connecting consumers with surplus food to reduce waste and unlock value.
+
+---
 
 <br />
 
