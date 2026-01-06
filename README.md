@@ -89,9 +89,4 @@ A marketplace connecting consumers with surplus food to reduce waste.
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 
-<br /><br />
-
-<img src="https://github-readme-stats.vercel.app/api?username=leoawesome&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6" height="150" alt="Leo's Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoawesome&layout=compact&theme=transparent&hide_border=true&title_color=3b82f6" height="150" alt="Leo's Top Languages" />
-
 </div>
