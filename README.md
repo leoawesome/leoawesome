@@ -19,13 +19,12 @@ I am a **Software Engineer** focused on building scalable applications and solvi
 Currently, I am the **Team Lead at [respond.io](https://respond.io)**.
 I have architected and owned many of the platform's core features. My recent highlight is building the **AI Agent**, a system designed to help businesses automate and manage customer conversations intelligently.
 
-**🚀 What I'm Building:**
-* 🏢 **[respond.io](https://respond.io)** (Core Platform & AI Agent)
-* 🍲 **[myvaluefood.com](https://myvaluefood.com)**
+### 🚀 Current Focus
 
-**⚡ Side Hustles:**
-* 🫐 **[berrybest.app](https://berrybest.app)**
-* 💰 **[thecfo.app](https://thecfo.app)**
+| 🏢 **What I'm Building** | ⚡ **Side Hustles** |
+| :--- | :--- |
+| **[respond.io](https://respond.io)**<br>_Core Platform & AI Agent_ | **[berrybest.app](https://berrybest.app)**<br>_Building the best berry tracker_ |
+| **[myvaluefood.com](https://myvaluefood.com)**<br>_Value food discovery_ | **[thecfo.app](https://thecfo.app)**<br>_Financial optimization tool_ |
 
 <br />
 
