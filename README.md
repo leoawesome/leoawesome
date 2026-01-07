@@ -32,8 +32,6 @@ I have architected and owned many of the platform's core features. My recent hig
 
 <h3>⚡ Indie Hacking & Ventures</h3>
 
-<br>
-
 <a href="https://myvaluefood.com">
   <img src="https://img.shields.io/badge/myvaluefood.com-Surplus_Food-10B981?style=for-the-badge&logo=leaf&logoColor=white" height="28" />
 </a>
