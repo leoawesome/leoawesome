@@ -32,20 +32,6 @@ I have architected and owned many of the platform's core features. My recent hig
 
 <h3>⚡ Indie Hacking & Ventures</h3>
 
-<a href="https://berrybest.app">
-  <img src="https://img.shields.io/badge/berrybest.app-Keepfit_AI-purple?style=for-the-badge&logo=googlefit&logoColor=white" height="28" />
-</a>
-<br>
-Smart calorie tracking & exercise logging with personalized <b>AI advice</b>.
-
-<br>
-
-<a href="https://thecfo.app">
-  <img src="https://img.shields.io/badge/thecfo.app-AI_CFO-orange?style=for-the-badge&logo=bitcoin&logoColor=white" height="28" />
-</a>
-<br>
-Track income & expenses with actionable <b>AI insights</b> for financial health.
-
 <br>
 
 <a href="https://myvaluefood.com">
