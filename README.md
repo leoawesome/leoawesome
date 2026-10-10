@@ -1,46 +1,23 @@
 <div align="center">
 
-# Hi there, I'm Leo 👋
+# Hi, I'm Leo 👋
 
-### Software Engineer & Team Lead
+### AI Agent & Backend Engineering Lead at [respond.io](https://respond.io)
 
-[![Respond.io](https://img.shields.io/badge/Building-respond.io-blue?style=for-the-badge&logo=rocket)](https://respond.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/leoawesome)
-
-<br />
-
----
-
-### 👨‍💻 About Me
-
-I am a **Software Engineer** focused on building scalable applications and solving complex problems.
-
-Currently, I am the **Team Lead at [respond.io](https://respond.io)**.
-I have architected and owned many of the platform's core features. My recent highlight is building the **AI Agent**, a system designed to help businesses automate and manage customer conversations intelligently.
-
-<div align="center">
-
-<h3>🚀 Professional Focus</h3>
-
-<a href="https://respond.io">
-  <img src="https://img.shields.io/badge/respond.io-Team_Lead_%26_AI-3B82F6?style=for-the-badge&logo=respond&logoColor=white" height="30" />
-</a>
-<br>
-<b>Building the AI Agent to automate customer conversations.</b>
-
-<br><br>
-
-<h3>⚡ Indie Hacking & Ventures</h3>
-
-<a href="https://myvaluefood.com">
-  <img src="https://img.shields.io/badge/myvaluefood.com-Surplus_Food-10B981?style=for-the-badge&logo=leaf&logoColor=white" height="28" />
-</a>
-<br>
-A marketplace connecting consumers with surplus food to reduce waste.
 
 </div>
 
-<br />
+I build the systems around the model: agent orchestration (~1M runs/day), the evals that decide whether a model or prompt change ships, and inference cost & latency, on top of event-driven backends handling ~10M messages/day.
+
+### 🚀 Building in the open
+
+- **[ckanban](https://github.com/leoawesome/kanban)**: Kanban for Claude Code. Move a ticket to Ready and a headless Claude Code session works it in its own git worktree, then opens a PR. Planning interviews, mockups, dependency-ordered plans, schedules, and an MCP server.
+- **[brainstorming-with-challenger](https://github.com/leoawesome/brainstorming-with-challenger)**: parallel challenger agents stress-test your design at decision points.
+- **[goalsmith](https://github.com/leoawesome/goalsmith)**: turns a one-line brief into a `/goal` contract for multi-hour unattended Claude Code runs.
+- **[assess](https://github.com/leoawesome/assess)** · **[prd-to-backend-analysis](https://github.com/leoawesome/prd-to-backend-analysis-skill)**: Claude Code skills for feasibility checks and PRD → backend tech analysis.
+
+<div align="center">
 
 ### 🛠 Tech Stack
 
@@ -70,6 +47,8 @@ A marketplace connecting consumers with surplus food to reduce waste.
 
 **Exploring**
 <br />
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 
